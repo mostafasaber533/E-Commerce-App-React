@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "firstName": "mostafa",
+      "lastName": "saber",
+      "email": "mostafa@gmail.com",
+      "password": "123456789",
+      "avatar": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "addresses": [],
+      "paymentMethods": [],
+      "orders": []
+    }
+  ]
+}
